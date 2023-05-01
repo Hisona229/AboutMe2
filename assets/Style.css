@@ -1,0 +1,48 @@
+body {
+  background-color: #6b6d6dcc;
+}
+.box {
+  width: 80%;
+  padding: 20px;
+}
+.text {
+  color: rgb(28, 48, 48);
+  font-size: 25;
+  font-family: "Alkatra", cursive;
+  max-width: 60%;
+}
+.text1 {
+  color: rgb(28, 48, 48);
+  font-size: 20;
+  font-family: "Alkatra", cursive;
+  max-width: 60%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.title {
+  color: rgb(28, 48, 48);
+  font-family: "Alkatra", cursive;
+  font-size: 3em;
+  position: relative;
+  left: 30px;
+}
+
+.MyImage {
+  width: 300px;
+  margin-right: 50px;
+  margin-left: 20px;
+  border-radius: 10%;
+}
+
+.icon {
+  width: 20px;
+  margin-right: 20px;
+}
+.numer {
+  color: rgb(12, 24, 24);
+  font-size: 17px;
+}
+.numer:hover {
+  text-decoration: none;
+}
